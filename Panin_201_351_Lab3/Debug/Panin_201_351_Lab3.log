@@ -1,0 +1,10 @@
+﻿D:\Microsoft Visual Studio\IDE\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Panin_201_351_Lab3.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Panin_201_351_Lab3.cpp
+C:\Users\admin\source\repos\Panin_201_351_Lab3\Panin_201_351_Lab3.cpp(16,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\admin\source\repos\Panin_201_351_Lab3\Panin_201_351_Lab3.cpp(17,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\admin\source\repos\Panin_201_351_Lab3\Panin_201_351_Lab3.cpp(25,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\admin\source\repos\Panin_201_351_Lab3\Panin_201_351_Lab3.cpp(29,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\admin\source\repos\Panin_201_351_Lab3\Panin_201_351_Lab3.cpp(39,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\admin\source\repos\Panin_201_351_Lab3\Panin_201_351_Lab3.cpp(37,32): warning C4101: j: неиспользованная локальная переменная
+C:\Users\admin\source\repos\Panin_201_351_Lab3\Panin_201_351_Lab3.cpp(112,22): warning C4018: <: несоответствие типов со знаком и без знака
+  Panin_201_351_Lab3.vcxproj -> C:\Users\admin\source\repos\Panin_201_351_Lab1\Debug\Panin_201_351_Lab3_1.exe

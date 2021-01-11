@@ -1,0 +1,7 @@
+﻿  Panin_201_351_Lab5_2.cpp
+  matr5_2.cpp
+C:\Users\admin\source\repos\Panin_201_351_Lab5_2\matr5_2.cpp(187,10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\admin\source\repos\Panin_201_351_Lab5_2\matr5_2.cpp(204,31): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\admin\source\repos\Panin_201_351_Lab5_2\matr5_2.cpp(208,174): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  Panin_201_351_Lab5_2.vcxproj -> C:\Users\admin\source\repos\Panin_201_351_Lab1\Debug\Panin_201_351_Lab5_2.exe

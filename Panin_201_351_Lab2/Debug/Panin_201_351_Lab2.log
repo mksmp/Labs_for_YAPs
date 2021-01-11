@@ -1,0 +1,5 @@
+﻿  Panin_201_351_Lab2.cpp
+C:\Users\admin\source\repos\Panin_201_351_Lab2\Panin_201_351_Lab2.cpp(38,12): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\admin\source\repos\Panin_201_351_Lab2\Panin_201_351_Lab2.cpp(41,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\admin\source\repos\Panin_201_351_Lab2\Panin_201_351_Lab2.cpp(41,37): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Panin_201_351_Lab2.vcxproj -> C:\Users\admin\source\repos\Panin_201_351_Lab1\Debug\Panin_201_351_Lab2.exe

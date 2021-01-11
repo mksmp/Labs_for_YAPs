@@ -1,0 +1,3 @@
+﻿D:\Microsoft Visual Studio\IDE\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Panin_201_351_Lab6_5.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Panin_201_351_Lab6_6.cpp
+  Panin_201_351_Lab6_5.vcxproj -> C:\Users\admin\source\repos\Panin_201_351_Lab1\Debug\Panin_201_351_Lab6_6.exe
